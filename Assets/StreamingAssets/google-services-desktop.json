@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1012605737896",
+    "firebase_url": "https://lavitatest.firebaseio.com",
+    "project_id": "lavitatest",
+    "storage_bucket": "lavitatest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012605737896:android:a8a92dc021bace11f29b9d",
+        "android_client_info": {
+          "package_name": "com.lavita.uc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012605737896-a6afv7se3gjg24oghhceh52l636ajcm5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lavita.uc",
+            "certificate_hash": "eaf7537b2c0bab526e1ae6fce2f409405753df03"
+          }
+        },
+        {
+          "client_id": "1012605737896-hve6cprc6stl7p2355g37mrqm09j3p4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lavita.uc",
+            "certificate_hash": "e4a026cdc0d68858a87a16a34a3e36959676433c"
+          }
+        },
+        {
+          "client_id": "1012605737896-3ndqr2qccgk8g6if5evbn1r1j2322jel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2A8jNqECRdjDqbflpOKgWAjgl63QfL18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012605737896-3ndqr2qccgk8g6if5evbn1r1j2322jel.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1012605737896-hc1k59egpf5m0gcmeu8a979bti2aogdn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lavita.uc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
